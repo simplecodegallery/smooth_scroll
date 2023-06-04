@@ -1,0 +1,9 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+  font-family: arial;
+}
+a{
+  color: inherit;
+}
